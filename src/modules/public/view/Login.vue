@@ -1,4 +1,4 @@
-<!--Created by Hazard on 2018/4/24.-->
+<!--Created by Hazard on 2020/4/24.-->
 <template>
   <div class="login" data-flex="main:center cross:center" v-if="!isRedirect">
     <el-card class="card">

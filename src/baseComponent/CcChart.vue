@@ -1,4 +1,4 @@
-<!--Created by Hazard on 2018/7/24.-->
+<!--Created by Hazard on 2020/7/24.-->
 <template>
   <div>
     <ve-map v-if="type === $c.DashboardTypeV['图表-地图']" ref="chart" v-bind="$attrs"></ve-map>

@@ -7,7 +7,15 @@
 <script>
 import { Vue } from 'vue-property-decorator'
 
-export default class App extends Vue {}
+export default class App extends Vue {
+  /* vue-props */
+  /* vue-vuex */
+  /* vue-data */
+  /* vue-compute */
+  /* vue-watch */
+  /* vue-lifecycle */
+  /* vue-method */
+}
 </script>
 <style lang="scss">
 </style>

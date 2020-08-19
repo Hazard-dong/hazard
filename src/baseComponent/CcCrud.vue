@@ -1,4 +1,4 @@
-<!--Created by Hazard on 2018/6/4.-->
+<!--Created by Hazard on 2020/6/4.-->
 <template>
   <div>
     <cc-form :data="searchForm" class="p-t-10 div p-h-10" is-search :show-message="false" @search="getData"></cc-form>
