@@ -1,24 +1,19 @@
-# project
+# iFace
 
-## Project setup
-```
-npm install
-```
+## 介绍
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+> iFace旨在开发一套针对PC端管理后台的通用解决方案，包含管理后台需要的一些核心功能和组件，为类似管理后台系统提供一套基础开发框架。实现在此框架基础上能简单快速的进行具体的业务开发。
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+[演示](http://207.148.92.80/iface)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[文档](http://207.148.92.80/iface-doc)
+
+## 主要功能
+- 基础组件
+- 权限管理
+- 图表组件
+- 动态表单
+- dashboard
+- 接口录制和mock功能
+- 动态CRUD
